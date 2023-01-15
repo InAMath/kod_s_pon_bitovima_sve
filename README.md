@@ -29,3 +29,20 @@ This image may take a few minutes to refresh.
 
 * for PXT/microbit
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+
+
+## INSTRUCTIONS FOR MICROBIT
+
+This is the program for two Microbits which simulates coding with the repetition code
+
+
+#### First Micro:bit (coder: codes and sends a message)
+
+ A: choose a message to send (0 or 1)
+ 
+ B:	send the coded message
+
+
+#### Second	Micro:bit (recives coded message) 
+
+ A plus B (at the same time): Micro:bit shows recived message/array
